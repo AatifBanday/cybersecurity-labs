@@ -12,6 +12,6 @@ I will be documenting:
 
 Goal:
 
-Build the practical skills required for an entry-level cybersecurity role (SOC Analyst / Junior Security Analyst) and work toward roles under NOC TEER 1/2 for PR eligibility.
+Build the practical skills required for an entry-level cybersecurity role
 
 Progress updated weekly.
